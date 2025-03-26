@@ -31,7 +31,7 @@ How to Run the Project Locally:
 
 1. Clone the repository:
 
-git clone https://github.com/shehryar-khan789/unit-converter-app.git  
+git clone https://github.com/shehryar-khan789/unit-converter-app  
 cd unit-converter-app
 
 
